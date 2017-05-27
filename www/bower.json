@@ -1,0 +1,14 @@
+{
+  "name": "Numbers",
+  "authors": [
+    "Ramart Mathurin <mathurin.ramart@isen-lille.fr>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "index.html",
+  "dependencies": {
+    "semantic": "semantic-ui#^2.2.10",
+    "jquery": "^3.2.1"
+  }
+}
